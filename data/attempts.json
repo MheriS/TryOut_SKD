@@ -1,0 +1,144 @@
+[
+  {
+    "id": "att_1794212102329_4uz3j",
+    "userId": "user_1",
+    "userDisplayName": "Budi Santoso",
+    "packageId": "pkg_1794212102282_hooq0",
+    "packageCode": "TO-SKD-003",
+    "packageTitle": "Tryout 3 - SKD Mandiri BKN 2026",
+    "packageVersion": "v1.0",
+    "attemptNumber": 1,
+    "startedAt": "2026-11-09T08:15:02.329Z",
+    "durationSeconds": 1200,
+    "status": "completed",
+    "answers": {
+      "q_twk_1794212102282_1": {
+        "selectedOption": "A",
+        "isDoubtful": false
+      },
+      "q_twk_1794212102282_2": {
+        "selectedOption": "A",
+        "isDoubtful": false
+      },
+      "q_twk_1794212102282_3": {
+        "selectedOption": "A",
+        "isDoubtful": false
+      },
+      "q_tiu_1794212102282_4": {
+        "selectedOption": "A",
+        "isDoubtful": false
+      },
+      "q_tiu_1794212102282_5": {
+        "selectedOption": "A",
+        "isDoubtful": false
+      },
+      "q_tiu_1794212102282_6": {
+        "selectedOption": "A",
+        "isDoubtful": false
+      },
+      "q_tkp_1794212102282_7": {
+        "selectedOption": "A",
+        "isDoubtful": false
+      },
+      "q_tkp_1794212102282_8": {
+        "selectedOption": "A",
+        "isDoubtful": false
+      },
+      "q_tkp_1794212102282_9": {
+        "selectedOption": "A",
+        "isDoubtful": false
+      }
+    },
+    "scores": {
+      "twkScore": 0,
+      "tiuScore": 5,
+      "tkpScore": 15,
+      "totalScore": 20,
+      "twkCorrectCount": 0,
+      "tiuCorrectCount": 1,
+      "twkPassed": false,
+      "tiuPassed": false,
+      "tkpPassed": false,
+      "isPassedAll": false
+    },
+    "submittedAt": "2026-11-09T08:15:02.366Z"
+  },
+  {
+    "id": "att_1794212102340_t3f9y",
+    "userId": "user_2",
+    "userDisplayName": "Siti Rahmawati",
+    "packageId": "pkg_1794212102282_hooq0",
+    "packageCode": "TO-SKD-003",
+    "packageTitle": "Tryout 3 - SKD Mandiri BKN 2026",
+    "packageVersion": "v1.0",
+    "attemptNumber": 1,
+    "startedAt": "2026-11-09T08:15:02.340Z",
+    "durationSeconds": 1500,
+    "status": "completed",
+    "answers": {
+      "q_twk_1794212102282_1": {
+        "selectedOption": "B",
+        "isDoubtful": false
+      },
+      "q_twk_1794212102282_2": {
+        "selectedOption": "B",
+        "isDoubtful": false
+      },
+      "q_twk_1794212102282_3": {
+        "selectedOption": "B",
+        "isDoubtful": false
+      },
+      "q_tiu_1794212102282_4": {
+        "selectedOption": "B",
+        "isDoubtful": false
+      },
+      "q_tiu_1794212102282_5": {
+        "selectedOption": "B",
+        "isDoubtful": false
+      },
+      "q_tiu_1794212102282_6": {
+        "selectedOption": "B",
+        "isDoubtful": false
+      },
+      "q_tkp_1794212102282_7": {
+        "selectedOption": "B",
+        "isDoubtful": false
+      },
+      "q_tkp_1794212102282_8": {
+        "selectedOption": "B",
+        "isDoubtful": false
+      },
+      "q_tkp_1794212102282_9": {
+        "selectedOption": "B",
+        "isDoubtful": false
+      }
+    },
+    "scores": {
+      "twkScore": 15,
+      "tiuScore": 5,
+      "tkpScore": 6,
+      "totalScore": 26,
+      "twkCorrectCount": 3,
+      "tiuCorrectCount": 1,
+      "twkPassed": false,
+      "tiuPassed": false,
+      "tkpPassed": false,
+      "isPassedAll": false
+    },
+    "submittedAt": "2026-11-09T08:15:02.374Z"
+  },
+  {
+    "id": "att_1794212102386_cqv29",
+    "userId": "user_1",
+    "userDisplayName": "Budi Santoso",
+    "packageId": "pkg_1794212102282_hooq0",
+    "packageCode": "TO-SKD-003",
+    "packageTitle": "Tryout 3 - SKD Mandiri BKN 2026",
+    "packageVersion": "v1.0",
+    "attemptNumber": 2,
+    "startedAt": "2026-11-09T08:15:02.386Z",
+    "durationSeconds": 0,
+    "status": "in_progress",
+    "answers": {}
+  }
+]

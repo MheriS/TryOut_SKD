@@ -1,0 +1,30 @@
+[
+  {
+    "id": "admin_1",
+    "name": "Administrator BKN",
+    "email": "admin@bkn.go.id",
+    "role": "admin",
+    "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=120&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "user_1",
+    "name": "Budi Santoso",
+    "email": "budi.santoso@gmail.com",
+    "role": "user",
+    "avatar": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?w=120&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "user_2",
+    "name": "Siti Rahmawati",
+    "email": "siti.rahma@gmail.com",
+    "role": "user",
+    "avatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=120&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "user_3",
+    "name": "Ahmad Fauzi",
+    "email": "ahmad.fauzi@gmail.com",
+    "role": "user",
+    "avatar": "https://images.unsplash.com/photo-1570295999919-56ceb5ecca61?w=120&auto=format&fit=crop&q=80"
+  }
+]
